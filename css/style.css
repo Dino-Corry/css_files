@@ -17242,4 +17242,14 @@ html[dir=rtl] .sidebar li > a .caret:before {
 .copyright p {
   font-weight: 500;
 }
+
+.imagey {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    top: 80px;
+    right: 65px;
+    display: flex;
+    justify-content: center;
+  }
 /*# sourceMappingURL=style.css.map */
