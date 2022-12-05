@@ -17245,11 +17245,8 @@ html[dir=rtl] .sidebar li > a .caret:before {
 
 .imagey {
     position: absolute;
-    width: 150px;
-    height: 150px;
-    top: 80px;
-    right: 65px;
-    display: flex;
+    width: 20px;
+    height: 200px;
     justify-content: center;
   }
 /*# sourceMappingURL=style.css.map */
